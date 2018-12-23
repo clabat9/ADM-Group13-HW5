@@ -17,7 +17,7 @@ The used reduced graph is downloadable from on [Wikicat hyperlink graph](https:/
 	This script contains all the useful functions to get the proposed requests, deeply commented to have a clear view of the logic behind.
 	
 2.  __`Data Hw5.rar`__:
-	This archive contains, just as an example if the reader wanna try the code without waiting too long, the rank and node rank for the input category 'English_cricketers'.
+	This archive contains, just as an example if the reader wanna try the code without waiting too long, the rank and node rank for the input category 'English_cricketers' as pickle files.
 
   
 ## `IPython Notebook: Homework5_final.ipynb `
