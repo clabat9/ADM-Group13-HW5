@@ -1,7 +1,9 @@
 # ADM-Group13-HW5
 # Visit the Wikipedia hyperlinks graph!
 
-![alt text](https://i.imgur.com/2PKTFYy.png)
+[alt text](https://i.imgur.com/2PKTFYy.png)
+
+![image](https://i.pinimg.com/originals/2e/79/d3/2e79d322842b063b0d620b5de334ab1a.gif)
 
 The proposed scripts allow you to get a rank of the Wikipedia articles according to some criteria.
 
